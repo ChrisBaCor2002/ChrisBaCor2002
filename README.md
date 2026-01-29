@@ -18,7 +18,7 @@
   - 🎓 Ingeniería en Tecnología de la Información – Universidad de Guayaquil  
   - 📊 Especialista en Analítica de Datos para Negocios – ESPOL  
 - **Email:** 📧 chrisn.bacor@gmail.com  
-- **LinkedIn:** 🔗 *(agrega aquí tu URL)*  
+- **LinkedIn:** 🔗 www.linkedin.com/in/christellbanocordero2002
 
 ---
 
