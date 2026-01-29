@@ -1,9 +1,10 @@
 # 👩‍💻 Christell Baño Cordero  
-### 📊 Data Analyst | Business Intelligence | Ingeniería en TI  
+### 🛡️ Tecnología de la Información | Administración de Bases de Datos | Ciberseguridad | Data Analytics (en formación)
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi)
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-DataBase-4479A1?style=for-the-badge&logo=mysql)
+![SQL](https://img.shields.io/badge/SQL-Database%20Management-4479A1?style=for-the-badge&logo=mysql)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Basics-critical?style=for-the-badge&logo=security)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel)
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?style=for-the-badge&logo=github)
 
@@ -18,37 +19,44 @@
   - 🎓 Ingeniería en Tecnología de la Información – Universidad de Guayaquil  
   - 📊 Especialista en Analítica de Datos para Negocios – ESPOL  
 - **Email:** 📧 chrisn.bacor@gmail.com  
-- **LinkedIn:** 🔗 www.linkedin.com/in/christellbanocordero2002
+- **LinkedIn:** 🔗 www.linkedin.com/in/christellbanocordero2002  
 
 ---
 
 ## 👩‍💼 Sobre Mí
 
-Soy **Ingeniera en TI con enfoque en Análisis de Datos y Business Intelligence**, apasionada por transformar grandes volúmenes de información en **insights claros para la toma de decisiones estratégicas**.
+Soy **Ingeniera en Tecnología de la Información** con enfoque en la **administración de bases de datos y ciberseguridad**, y actualmente en proceso de especialización y transición hacia el **análisis de datos y Business Intelligence**.
 
-Tengo experiencia en **Power BI, SQL, Excel avanzado y Python**, así como en el diseño de dashboards ejecutivos, análisis exploratorio de datos y proyectos data-driven aplicados a entornos reales de negocio.
+Cuento con una base sólida en **SQL, modelado y gestión de bases de datos**, buenas prácticas de **seguridad de la información**, y experiencia práctica en **Power BI, Excel avanzado y Python**, aplicados al análisis, visualización y apoyo a la toma de decisiones.
 
-- 🔍 **Áreas de especialización:**  
-  - Análisis de Datos  
-  - Business Intelligence  
-  - Data Visualization & Storytelling  
-  - Optimización de procesos  
-  - Soporte a decisiones gerenciales  
+Mi perfil combina una **visión técnica-operativa** con una **orientación analítica**, lo que me permite comprender, proteger y explotar los datos de forma eficiente y segura.
 
-- 📚 **Actualmente aprendiendo:**  
+- 🔍 **Áreas de enfoque:**  
+  - Administración y optimización de bases de datos  
+  - Ciberseguridad (fundamentos y buenas prácticas)  
+  - Análisis de datos y Business Intelligence  
+  - Visualización de datos y storytelling  
+  - Soporte a la toma de decisiones  
+
+- 📚 **Actualmente aprendiendo y fortaleciendo:**  
   - Power BI avanzado (DAX, modelado estrella)  
-  - Python para Data Analytics  
-  - SQL optimizado  
-  - Ethical Hacking (base en ciberseguridad)  
+  - Python para análisis de datos  
+  - SQL avanzado y optimización de consultas  
+  - Ethical Hacking y fundamentos de ciberseguridad  
 
 - 🤝 **Busco colaborar en:**  
-  - Proyectos de análisis y visualización de datos  
-  - Dashboards ejecutivos  
-  - Proyectos open source relacionados a datos  
-  - Soluciones BI para empresas  
+  - Proyectos relacionados con bases de datos y análisis de datos  
+  - Dashboards y reportes ejecutivos  
+  - Proyectos académicos y open source  
+  - Iniciativas donde se integren datos y seguridad  
 
 - ✨ **Dato curioso:**  
-  Además de la tecnología, soy tutora de matemáticas, física y química, lo que ha fortalecido mi capacidad de explicar datos complejos de forma clara 📈  
+  Además del área tecnológica, soy tutora en matemáticas, física y química, lo que ha fortalecido mi pensamiento lógico y mi capacidad para explicar conceptos complejos de forma clara 📊  
+
+## 📄 Currículum Vitae
+
+📥 **Descargar CV (PDF):**  
+👉 [CV – Christell Baño Cordero](./CV_Christell_Bano_Data_TI.pdf)
 
 ---
 
@@ -60,54 +68,54 @@ Tengo experiencia en **Power BI, SQL, Excel avanzado y Python**, así como en el
 - JavaScript  
 - PHP  
 
-### 📊 Business Intelligence & Data
+### 🗄️ Bases de Datos
+- MySQL  
+- SQL Server  
+
+### 📊 Análisis de Datos & BI
 - Power BI  
 - DAX  
 - Excel Avanzado  
 - Power Query  
+
+### 🛡️ Seguridad & Sistemas
+- Fundamentos de Ciberseguridad  
+- Ethical Hacking (nivel inicial)  
 
 ### 🛠️ Herramientas
 - Git & GitHub  
 - Docker  
 - VS Code  
 
-### 🗄️ Bases de Datos
-- MySQL  
-- SQL Server  
-
 ---
 
 ## 🚀 Proyectos Destacados
 
-### 📊 Proyecto – Business Intelligence con Power BI
-- **Descripción:** Dashboards interactivos orientados a la toma de decisiones ejecutivas.  
+### 📊 Business Intelligence con Power BI
+- **Descripción:** Dashboards interactivos para el análisis y apoyo a decisiones gerenciales.  
 - **Tech Stack:** Power BI, DAX, Excel  
-- **Características:**  
-  - KPIs estratégicos  
-  - Storytelling de datos  
-  - Análisis temporal y categórico  
 - **Repositorio:**  
 👉 https://github.com/ChrisBaCor2002/ProyectoModuloBI  
 
 ---
 
-### 🐍 Proyecto – Análisis de Datos con Python
-- **Descripción:** Limpieza, análisis y visualización de datos para resolver problemas reales.  
+### 🐍 Análisis de Datos con Python
+- **Descripción:** Limpieza, análisis y visualización de datos para casos prácticos.  
 - **Tech Stack:** Python, Pandas, Matplotlib  
 - **Repositorio:**  
 👉 https://github.com/ChrisBaCor2002/ProyectoModuloPython  
 
 ---
 
-### 🗄️ Proyecto – Bases de Datos SQL
-- **Descripción:** Diseño y optimización de bases de datos relacionales.  
+### 🗄️ Bases de Datos SQL
+- **Descripción:** Diseño, modelado y optimización de bases de datos relacionales.  
 - **Tech Stack:** MySQL, SQL Server  
 - **Repositorio:**  
 👉 https://github.com/ChrisBaCor2002/ProyectoModuloDatabaseSQL  
 
 ---
 
-### 📈 Proyecto – Excel para Analítica
+### 📈 Excel para Analítica
 - **Descripción:** Automatización y análisis financiero mediante Excel avanzado.  
 - **Repositorio:**  
 👉 https://github.com/ChrisBaCor2002/ProyectoModuloExcel  
@@ -116,18 +124,21 @@ Tengo experiencia en **Power BI, SQL, Excel avanzado y Python**, así como en el
 
 ## 🎯 Objetivos 2026
 
-- 🚀 Consolidarme como **Data Analyst / BI Analyst**  
-- 📊 Profundizar en **ciencia de datos**  
-- 🔐 Integrar analítica con **ciberseguridad**  
+- 🚀 Consolidar un perfil profesional en **administración de bases de datos y análisis de datos**  
+- 📊 Fortalecer habilidades en **Business Intelligence y Data Analytics**  
+- 🔐 Integrar **ciberseguridad y datos** en soluciones tecnológicas  
 - 🤝 Participar en proyectos colaborativos y open source  
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChrisBaCor2002&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBaCor2002&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChrisBaCor2002&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisBaCor2002&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-⭐ *Gracias por visitar mi perfil. Siempre abierta a colaborar en proyectos data-driven.*  
+⭐ *Perfil académico–profesional en constante crecimiento, con base en TI, bases de datos y seguridad, y proyección hacia el análisis de datos.*
+
