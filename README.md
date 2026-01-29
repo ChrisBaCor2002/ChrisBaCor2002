@@ -56,7 +56,7 @@ Mi perfil combina una **visión técnica-operativa** con una **orientación anal
 ## 📄 Currículum Vitae
 
 📥 **Descargar CV (PDF):**  
-👉 [CV – Christell Baño Cordero](./CV_Christell_Bano_Data_TI.pdf)
+👉 [CV – Christell Baño Cordero](./CV_Christell_Bano_TI_Data.pdf)
 
 ---
 
