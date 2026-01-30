@@ -1,7 +1,7 @@
 # 👩‍💻 Christell Baño Cordero  
 ### 🛡️ Tecnología de la Información | Administración de Bases de Datos | Ciberseguridad | Data Analytics (en formación)
 
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-Programming%20%7C%20Data%20Analysis%20%7C%20Automation-3776AB?style=for-the-badge&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Database%20Management-4479A1?style=for-the-badge&logo=mysql)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Basics-critical?style=for-the-badge&logo=security)
 ![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel)
